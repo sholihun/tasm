@@ -1,4 +1,0 @@
-tasm
-====
-
-membuat tasm
