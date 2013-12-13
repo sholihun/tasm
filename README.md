@@ -1,0 +1,6 @@
+tasm
+====
+=====
+
+
+membuat tasm
